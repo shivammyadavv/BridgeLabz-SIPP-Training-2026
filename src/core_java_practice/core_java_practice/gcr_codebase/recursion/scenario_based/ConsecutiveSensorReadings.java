@@ -1,0 +1,4 @@
+package core_java_practice.core_java_practice.gcr_codebase.recursion.scenario_based;
+
+public class ConsecutiveSensorReadings {
+}
